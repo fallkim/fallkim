@@ -9,7 +9,7 @@
 
 ## 👩‍💻 My Github Stats 👩‍💻
 [![FALL's GitHub stats](https://github-readme-stats.vercel.app/api?username=fallkim&include_all_commits=true&show_icons=true&theme=nord&hide_border=true&count_private=true)](https://github.com/bi-sz/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fallkim&layout=compact)](https://github.com/fallkim/github-readme-stats)
+
 
 ## 🔨 Once I've Used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
