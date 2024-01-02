@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
   </div>
   <!-- Framework -->
-  <p><strong>Frontend</strong></p>
+  <p><strong>Framework</strong></p>
   <div>
     <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
