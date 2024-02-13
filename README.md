@@ -12,7 +12,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=fallkim&include_all_commits=true&show_icons=true&theme=nord&hide_border=true&count_private=true" />
 </a>
 <a href="https://github.com/fallkim">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangminlee98&theme=tokyonight&layout=compact&exclude_repo=OPNE-CV,Python,Project,AWS_Serverless,Google_Image_Crawling,MFC-WINDOW-PROGRAMMING" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fallkim&theme=tokyonight&layout=compact&exclude_repo=OPNE-CV,Python,Project,AWS_Serverless,Google_Image_Crawling,MFC-WINDOW-PROGRAMMING" />
 </a>
 
 <br clear="left"/>
