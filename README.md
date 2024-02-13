@@ -8,10 +8,16 @@
 <br>
 
 ## 👩‍💻 My Github Stats 👩‍💻
-[![FALL's GitHub stats](https://github-readme-stats.vercel.app/api?username=fallkim&include_all_commits=true&show_icons=true&theme=nord&hide_border=true&count_private=true)](https://github.com/bi-sz/github-readme-stats)
 <a href="https://github.com/fallkim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangminlee98&theme=tokyonight&layout=compact&exclude_repo=OPNE-CV,Python,Project,AWS_Serverless,Google_Image_Crawling,MFC-WINDOW-PROGRAMMING)](https://github.com/anuraghazra/github-readme-stats"  height="180" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=fallkim&include_all_commits=true&show_icons=true&theme=nord&hide_border=true&count_private=true" />
 </a>
+<a href="https://github.com/fallkim">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangminlee98&theme=tokyonight&layout=compact&exclude_repo=OPNE-CV,Python,Project,AWS_Serverless,Google_Image_Crawling,MFC-WINDOW-PROGRAMMING" />
+</a>
+
+<br clear="left"/>
+
+
 
 
 ## 🔨 Once I've Used 🔨
