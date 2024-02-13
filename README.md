@@ -9,6 +9,9 @@
 
 ## 👩‍💻 My Github Stats 👩‍💻
 [![FALL's GitHub stats](https://github-readme-stats.vercel.app/api?username=fallkim&include_all_commits=true&show_icons=true&theme=nord&hide_border=true&count_private=true)](https://github.com/bi-sz/github-readme-stats)
+<a href="https://github.com/fallkim">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangminlee98&theme=tokyonight&layout=compact&exclude_repo=OPNE-CV,Python,Project,AWS_Serverless,Google_Image_Crawling,MFC-WINDOW-PROGRAMMING)](https://github.com/anuraghazra/github-readme-stats"  height="180" />
+</a>
 
 
 ## 🔨 Once I've Used 🔨
@@ -20,7 +23,7 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> 
   </div>
   <!-- Database -->
   <p><strong>Database</strong></p>
