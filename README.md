@@ -1,74 +1,56 @@
-# FALL in GitHub
-![header](https://capsule-render.vercel.app/api?type=waving&color=F8E2CF&text=&animation=twinkling&height=150&width=100%)
+
+![header](https://capsule-render.vercel.app/api?type=rounded&color=9C7A6D&text=Welcome%20to%20FALL's%20GitHub!%20🍂&fontColor=FFF3E0&fontSize=42&fontAlignY=45&height=160)
+
+
+---
+
+## 👩‍💻 GitHub Stats
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+FALL's+GitHub!👋" alt="Typing SVG">
+  <img src="https://github-readme-stats.vercel.app/api?username=fallkim&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fallkim&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=OPNE-CV,Python,Project,AWS_Serverless,Google_Image_Crawling,MFC-WINDOW-PROGRAMMING" height="180px" />
 </div>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffallkim&count_bg=%23D8CAC1&title_bg=%2396777D&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
-<br>
+---
 
-## 👩‍💻 My Github Stats 👩‍💻
-<a href="https://github.com/fallkim">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=fallkim&include_all_commits=true&show_icons=true&theme=nord&hide_border=true&count_private=true" />
-</a>
-<a href="https://github.com/fallkim">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fallkim&theme=tokyonight&layout=compact&exclude_repo=OPNE-CV,Python,Project,AWS_Serverless,Google_Image_Crawling,MFC-WINDOW-PROGRAMMING" />
-</a>
+## 🔨 Tech Stack
 
-<br clear="left"/>
+### 💬 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### 🖥️ Server & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+### ⚙️ Frameworks
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-## 🔨 Once I've Used 🔨
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-  <!-- Language -->
-  <p><strong>Language</strong></p>
-  <div>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> 
-  </div>
-  <!-- Database -->
-  <p><strong>Database</strong></p>
-  <div>
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  </div>
-  <!-- Server -->
-  <p><strong>Server</strong></p>
-  <div>
-    <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
-  </div>
-  <!-- Framework -->
-  <p><strong>Framework</strong></p>
-  <div>
-    <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
-    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-  </div>
-  <!-- Others -->
-  <p><strong>Tools</strong></p>
-  <div>
-    <img src ="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white">
-    <img src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white">
-    <img src ="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white">
-    <img src ="https://img.shields.io/badge/PostMan-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white">
-  </div>
-  <br>
-</div>
+### 🧰 Tools
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
+---
+
+## 📫 Contact
+<div align="left">
   <a href="mailto:gaeul.kim812@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
   <a href="https://open.kakao.com/o/sKNabXCf">
-    <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
+    <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=black">
   </a>
-</div><br>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=150&section=footer&width=100%" />
-
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:9C7A6D,100:F8E2CF&height=160&section=footer&reversal=true)
