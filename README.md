@@ -6,8 +6,14 @@
 
 ## 👩‍💻 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fallkim&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fallkim&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=OPNE-CV,Python,Project,AWS_Serverless,Google_Image_Crawling,MFC-WINDOW-PROGRAMMING" height="180px" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=fallkim&show_icons=true&theme=nord&hide_border=true&count_private=true&cache_seconds=86400"
+    height="180px"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fallkim&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    height="180px"
+  />
 </div>
 
 ---
